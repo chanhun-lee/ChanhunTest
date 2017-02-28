@@ -1,1 +1,2 @@
 D:\Workspace\Test\MvvmLight4\MvvmLight4\bin\Debug\MvvmLight4.exe.config
+D:\Workspace\GitTest\ChanhunTest\MvvmLight4\bin\Debug\MvvmLight4.exe.config
