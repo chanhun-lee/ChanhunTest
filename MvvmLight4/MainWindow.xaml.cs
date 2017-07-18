@@ -25,8 +25,10 @@ namespace MvvmLight4
         /// Initializes a new instance of the MainWindow class.
         /// </summary>
         public MainWindow()
-        {
+        {///
 
+            /////
+            ///
             InitializeComponent();
             Closing += (s, e) => ViewModelLocator.Cleanup();
 
