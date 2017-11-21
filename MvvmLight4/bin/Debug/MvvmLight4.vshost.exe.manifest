@@ -210,14 +210,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MvvmLight4.exe" size="24080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MvvmLight4.exe" size="24592">
       <assemblyIdentity name="MvvmLight4" version="0.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0Da0ZfekVKSsZ8ZUx/D3QVZpwNj9lSQbsLsj9xKPr1E=</dsig:DigestValue>
+        <dsig:DigestValue>5HErqSigrDod16Busl4/CA+fDYalsXjMoYV1U2WUQAw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
