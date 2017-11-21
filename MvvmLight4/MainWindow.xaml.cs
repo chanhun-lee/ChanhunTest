@@ -59,7 +59,6 @@ namespace MvvmLight4
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            Console.WriteLine("asdsad");
             cSlider.Value -= 1;
             Console.WriteLine("asaa");
         }
