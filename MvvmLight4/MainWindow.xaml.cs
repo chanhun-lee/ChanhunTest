@@ -61,6 +61,7 @@ namespace MvvmLight4
         {
             cSlider.Value -= 1;
             Console.WriteLine("asaa");
+            Console.WriteLine("Sad");
         }
 
 
